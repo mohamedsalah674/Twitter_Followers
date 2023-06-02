@@ -167,18 +167,6 @@ def Suggest_Followers(self, node_id, num_of_suggestions):
 > * after getting all suggestion sorting it will cost `O( V log(v) )` as it is sorted in heap sort approach.
 > * So the total cost of this function is `O(V²)`
 
-## Team Members
-
-**This Project was created due to the efforts of all the team members and their indescribable hard work.**
-
-<table>
-  <tr>
-    <td align="center"><a href="https://github.com/BU9D4DDY"><img src="https://scontent.fcai19-6.fna.fbcdn.net/v/t39.30808-6/241967366_374834414103110_2929536388284615253_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=174925&_nc_ohc=NtH0FC08pLsAX__ELa7&_nc_ht=scontent.fcai19-6.fna&oh=00_AT_IahFpHfAAqh4_ptdY9bb5ngfpr49NZBVl7Mf46Qs2MA&oe=6290D10A" width="100px;" alt=""/><br/><sub><b>Diaa Hassan</b></sub></a><br/></td>
-    <td align="center"><a href="https://github.com/karim-moftah"><img src="https://scontent.fcai19-6.fna.fbcdn.net/v/t1.6435-9/161780735_1677559142452766_938213223228512265_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=4mjE4yjePAQAX_ap5em&_nc_ht=scontent.fcai19-6.fna&oh=00_AT91uRXXf4mqhba9kbzavMc7lSxS0V0N0fGv8avPTaX4xQ&oe=62B0F17E" width="100px;" alt=""/><br /><sub><b>Karim Moftah</b></sub></a><br/></td>
-    <td align="center"><a href="https://github.com/ammaradel17"><img src="https://scontent.fcai19-6.fna.fbcdn.net/v/t39.30808-6/278346255_1849363438587301_3664428799383455267_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=Tlfm8ZqKyJ4AX-9hwu7&_nc_ht=scontent.fcai19-6.fna&oh=00_AT9CIpR85qdKRuR5uWJjikIOiM-_tdEObxJfNU1VtErFlg&oe=628FD5C6" width="100px;" alt=""/><br /><sub><b>Ammar Adel</b></sub></a><br/></td>
-    <td align="center"><a href="https://github.com/mahmedMostafa"><img src="https://avatars.githubusercontent.com/u/54549128?v=4" width="100px;" alt=""/><br /><sub><b>Mohamed Mostafa</b></sub></a><br/></td>
-    </tr>
-</table>
 
 ## Recourses
 
